@@ -46,7 +46,7 @@ describe UsersController do
   describe "GET 'new'" do
 
     before(:each) do
-      @base_title = "Ruby on Rails Tutorial Sample App | "
+      @base_title = "Social Site | "
     end
 
     it "should be successful" do

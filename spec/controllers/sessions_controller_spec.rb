@@ -5,7 +5,7 @@ describe SessionsController do
   render_views
 
   before (:each) do
-    @base_title = "Ruby on Rails Tutorial Sample App | "
+    @base_title = "Social Site | "
   end
 
   describe "GET 'new'" do
